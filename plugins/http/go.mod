@@ -1,4 +1,4 @@
-module github.com/apache/skywalking-go/plugins/http
+module artifacts-observability.sixthsense.rakuten.com/sixthsense/sixthsenseGoAgent/plugins/http
 
 go 1.19
 

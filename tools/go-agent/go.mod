@@ -11,12 +11,15 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
+require github.com/apache/skywalking-go/plugins/core v0.0.0-20250301084827-154de50628e8 // indirect
+
 require (
+	github.com/apache/skywalking-go/plugins/http v0.0.0-20250301084827-154de50628e8
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rogpeppe/go-internal v1.9.0 // indirect
+	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	golang.org/x/mod v0.9.0 // indirect

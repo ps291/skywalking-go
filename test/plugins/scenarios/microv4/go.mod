@@ -1,6 +1,6 @@
-module test/plugins/scenarios/microv4
+module artifacts-observability.sixthsense.rakuten.com/sixthsense/sixthsenseGoAgent/test/plugins/scenarios/microv4
 
-go 1.19
+go 1.20
 
 require (
 	github.com/go-micro/examples v0.0.0-20230412102204-758a9e786e6a
